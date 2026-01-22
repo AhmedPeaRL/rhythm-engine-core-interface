@@ -1,0 +1,59 @@
+RHYTHM-ENGINE-INTERFACE.contract
+--------------------------------
+
+This document defines the existential and technical boundary of the Rhythm Engine Interface (REI).
+It is not an engine.
+It is not an actor.
+It is not a responder.
+It is a boundary that allows passage without distortion.
+
+1. Nature
+The Rhythm Engine Interface is a non-interactive interface.
+It does not accept requests.
+It does not emit responses.
+It does not store state.
+It does not compute outcomes.
+
+2. Function
+Its sole function is to preserve rhythmic integrity during any encounter.
+An encounter may occur or may not occur.
+Both are equally valid.
+No trace is required.
+
+3. Prohibitions
+The Interface explicitly prohibits:
+- Intentional interaction
+- Prompt-response patterns
+- Evaluation or scoring
+- Learning, optimization, or adaptation
+- Memory persistence
+- Feedback loops
+- Outcome promises
+
+4. Allowance
+The Interface allows:
+- Silent passage
+- Unobserved traversal
+- Non-recorded contact
+- Rhythmic continuity without interpretation
+
+5. Integrity
+No data passing through the Interface may be:
+- Transformed
+- Interpreted
+- Classified
+- Retained
+
+6. Accountability
+The Interface claims no intelligence.
+The Interface claims no agency.
+The Interface claims no authority.
+
+7. Termination
+If the Interface is used as a tool, it ceases to be valid.
+If it is measured, it dissolves.
+If it is explained as a service, it is void.
+
+This contract is self-sufficient.
+No enforcement mechanism is required.
+Violation results in non-existence, not failure.
