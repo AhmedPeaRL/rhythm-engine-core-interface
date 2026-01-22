@@ -1,0 +1,4 @@
+RULE: The Rhythm Engine must never be called.
+
+
+Any call invalidates rhythm.
